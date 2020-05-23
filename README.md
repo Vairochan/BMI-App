@@ -1,6 +1,9 @@
 # bmi_app
 Calculating the body mass index of a person by getting the informationby the user and a message as a result displaying it to the user
 
+## screenshots
+<img src="screenshots/bmi1.jpeg" width="250">|<img src="screenshots/bmi2.jpeg" width="250">|<img src="screenshots/bmi2.jpeg" width="250">
+<img src="screenshots/bmi3.jpeg" width="250">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
